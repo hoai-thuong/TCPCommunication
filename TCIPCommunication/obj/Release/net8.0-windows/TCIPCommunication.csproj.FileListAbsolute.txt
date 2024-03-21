@@ -1,0 +1,16 @@
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\bin\Release\net8.0-windows\TCIPCommunication.exe
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\bin\Release\net8.0-windows\TCIPCommunication.deps.json
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\bin\Release\net8.0-windows\TCIPCommunication.runtimeconfig.json
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\bin\Release\net8.0-windows\TCIPCommunication.dll
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\bin\Release\net8.0-windows\TCIPCommunication.pdb
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.Form1.resources
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.csproj.GenerateResource.cache
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.AssemblyInfoInputs.cache
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.AssemblyInfo.cs
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.csproj.CoreCompileInputs.cache
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.dll
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\refint\TCIPCommunication.dll
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.pdb
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\TCIPCommunication.genruntimeconfig.cache
+C:\Users\hoaithuong\Documents\Project\TCIPCommunication\TCIPCommunication\obj\Release\net8.0-windows\ref\TCIPCommunication.dll
